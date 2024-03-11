@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harris Saif</h1>
-<h3 align="center">Software Engineering Student From Fast Nuces</h3>
+<h3 align="center">Software Engineering Student at Fast Nuces</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
